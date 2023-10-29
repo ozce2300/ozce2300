@@ -1,3 +1,4 @@
-Hej!
+## Hej!
 
-Özgur heter jag och studerar just nu till webbutveckling!
+# _***Özgur*** heter jag och studerar just nu till webbutveckling!_
+
